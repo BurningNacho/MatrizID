@@ -7,7 +7,7 @@ Se que suena horrible pero es una versión de prueba.
 El ciclo de trabajo con este programa se basa en:
 1.  Identificar los factores a intervenir (24 por ahora), después seleccionar las acciones que se llevarán a cabo (26 por ahora).*
 1.  Identificar las acciones que se tomarán a cabo para cada uno de los factores seleccionados.*
-1.  Medir de forma cualitativa las magnitudes _signo, intensidad, extensión, momento, persistencia, reversibilidad, sinergia, acumulación, efecto, preriodicidad y recuperabilidad_** los valores asociados a los diferentes niveles se encuentra en la pestaña Atributos y se pueden modificar _ver apartado precacaución_
+1.  Medir de forma cualitativa las magnitudes _signo, intensidad, extensión, momento, persistencia, reversibilidad, sinergia, acumulación, efecto, preriodicidad y recuperabilidad_** los valores asociados a los diferentes niveles se encuentra en la pestaña Atributos y se pueden modificar(_ver apartado precacaución_).
 1.  Se puede rellenar la pestaña Importancia una vez completados los pasos anteriores para calcular los sumatorios totales y el número y tipo de los impactos a mano. _lo implementaré si se vuelve solicitado_.
 1.  Medir de forma cuantitativa el UIP y sus valores absoluto y relativo, así como el total en cada una de las fases y medios. 
 
