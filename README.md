@@ -28,4 +28,4 @@ Estoy desarrollando una aplicación robusta que lleve a cabo el análisis y cál
 * **Al cambiar los valores de los Atributos se recomienda no eliminar ni insertar filas ya que puede provocar un mal funcionamiento.**
 * **Modificar el excel puede comprometer su integridad.**
 * **Todas las pestañas salvo la de importancia, si la acción es a mano, han de modificarse entendiendo parte del código primero.**
-* **Este excel bien usado puede ser una herramienta muy útil pero con un mal uso no servirá para nada, como consejo al descargar el fichero no lo abras y crea una copia del excel para cada proyecto que vayas a llevar a cabo (si resulta que te sirve)**
+* **Este excel bien usado puede ser una herramienta muy útil pero con un mal uso no servirá para nada. Como consejo, al descargar el fichero no lo abras y crea una copia del excel para cada proyecto que vayas a llevar a cabo**
