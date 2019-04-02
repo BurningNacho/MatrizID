@@ -18,7 +18,7 @@ El ciclo de trabajo con este programa se basa en:
 Estoy desarrollando una aplicación robusta que lleve a cabo el análisis y cálculo de los factores ambientales que intervienen en la evaluación y estudio del terreno y los riesgos asociados.
 
 ##  MODO DE EMPLEO
-1.  Descargar el xlsm y ejecutar con microsoft excel.
+1.  Descargar el fichero xlsm y ejecutar con microsoft excel.
 1.  Habilitar las macros para excel.
 1.  CTRL+R devuelve al estado inicial los botones, la pestaña MatrizIdentificacion, AccionesxFactores e Importancia.
 1.  No es necesario escribir ningún dato, todo se rellena automáticamente.
