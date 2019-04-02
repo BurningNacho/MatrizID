@@ -24,7 +24,7 @@ Estoy desarrollando una aplicación robusta que lleve a cabo el análisis y cál
 1.  No es necesario escribir ningún dato, todo se rellena automáticamente.
 1.  La pestaña importancia no hace las sumas absoluta y relativa aún, el valor ha de ser calculado a mano o creando la fórmula que sume el intervalo correspondiente.
 
-## PRECAUCION
+## PRECAUCIÓN
 **Al cambiar los valores de los Atributos se recomienda no eliminar ni insertar filas ya que puede provocar un mal funcionamiento.**
 
 **Modificar el excel puede comprometer su integridad.**
