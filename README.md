@@ -1,7 +1,7 @@
 # MatrizID
 ## Matriz de probabilidad - impacto ambiental 
 
-En este proyecto se ha intentado abordar el análisis de impactos medioambientales a través de macros en Excel.
+En este proyecto se ha intentado abordar el análisis de impactos medioambientales a través de macros en Excel que generan una matriz de Leopold.
 Se que suena horrible pero es una versión de prueba.
 
 El ciclo de trabajo con este programa se basa en:
